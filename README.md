@@ -7,7 +7,7 @@ ESP8266 driver supported by QuecPython
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Directory Structure](#Directory Structure)
+- [Directory Structure](#directory-structure)
 - [Usage](#Usage)
 - [Contributing](#contributing)
 - [License](#license)
